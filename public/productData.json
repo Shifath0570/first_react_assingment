@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Advanced conversational AI for text and coding\nHelps with writing, learning, and problem-solving",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "status": "popular",
+    "Checklist": ["Text generation", "Coding help", "Q&A", "Creative writing"]
+  },
+  {
+    "id": 2,
+    "title": "Midjourney",
+    "description": "AI-powered image generation tool\nCreates stunning visuals from text prompts",
+    "price": 10,
+    "image": "https://assets.bitdegree.org/images/midjourney-review-logo-square.png?tr=w-250",
+    "status": "favourite",
+    "Checklist": ["Text-to-image", "Art styles", "High quality", "Creative design"]
+  },
+  {
+    "id": 3,
+    "title": "Grammarly",
+    "description": "AI writing assistant for grammar and clarity\nImproves tone and correctness instantly",
+    "price": 12,
+    "image": "https://e7.pngegg.com/pngimages/427/575/png-clipart-grammarly-writing-business-grammar-checker-or-text-service-thumbnail.png",
+    "status": "popular",
+    "Checklist": ["Grammar check", "Tone detection", "Spell check", "Writing suggestions"]
+  },
+  {
+    "id": 4,
+    "title": "Canva AI",
+    "description": "Design platform with AI-powered tools\nCreate graphics, presentations, and social media posts",
+    "price": 15,
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small/canva-transparent-icon-free-png.png",
+    "status": "mostwanted",
+    "Checklist": ["Design templates", "AI image tools", "Drag & drop", "Brand kits"]
+  },
+  {
+    "id": 5,
+    "title": "Notion AI",
+    "description": "AI assistant inside productivity workspace\nHelps summarize, write, and organize content",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "status": "favourite",
+    "Checklist": ["Summarization", "Note taking", "Task management", "Content generation"]
+  },
+  {
+    "id": 6,
+    "title": "Runway ML",
+    "description": "AI video editing and generation platform\nCreate and edit videos with machine learning tools",
+    "price": 15,
+    "image": "https://freebiehive.com/wp-content/uploads/2024/04/Runway-Ai-Black-Symbol-Logo-PNG.jpg",
+    "status": "mostwanted",
+    "Checklist": ["Video generation", "AI editing", "Green screen", "Motion tracking"]
+  },
+  {
+    "id": 7,
+    "title": "Jasper AI",
+    "description": "AI content generator for marketing and blogs\nCreates high-quality copy in seconds",
+    "price": 39,
+    "image": "https://www.wpcrafter.com/wp-content/uploads/2023/10/jasperai.png",
+    "status": "popular",
+    "Checklist": ["Copywriting", "Templates", "SEO content", "Marketing tools"]
+  },
+  {
+    "id": 8,
+    "title": "Copy.ai",
+    "description": "AI-powered writing tool for business content\nGenerates ads, emails, and product descriptions",
+    "price": 36,
+    "image": "https://zorgle.co.uk/wp-content/uploads/2024/11/Copy-ai-logo.png",
+    "status": "favourite",
+    "Checklist": ["Ad copy", "Email writing", "Product descriptions", "Automation"]
+  }
+]
